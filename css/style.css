@@ -1,0 +1,98 @@
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+header{
+  background:#212121;
+  color:white;
+  margin: 0;
+  height: 200px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-bottom:2px solid white;
+}
+img{
+height: 100px;
+}
+h1{
+  margin: 0;
+  font-family: 'Libre Baskerville', serif;
+  font-size:55px;
+}
+.artibox{
+  background:#484848;
+  color:white;
+  height: 800px;
+  text-align: center;
+  align-items: center;
+
+
+}
+p{
+  margin: 0;
+  font-family: 'Libre Baskerville', serif;
+  font-size:35px;
+  padding: 10px;
+}
+/* ..... */
+.pint{
+height: 33px;
+width: 450px;
+border-radius: 5px;
+border: 1px solid  #1b1b1b;
+font-family: 'Libre Baskerville', serif;
+font-size:15px;
+letter-spacing: 2px;
+}
+#addBtn{
+  height: 38px;
+  width: 75px;
+  border-radius: 5px;
+  font-family: 'Libre Baskerville', serif;
+  color:white;
+  background: #bb002f;
+  letter-spacing: 1px;
+  }
+}
+
+
+ul {
+  margin: 0;
+  margin-top: 30px;
+  padding-left: 0;
+  list-style-type: none;
+
+  justify-content: center;
+}
+
+li {
+
+  margin: auto;
+  padding:15px;
+  border: 1px solid white;
+  background:#373737;
+  color: white;
+  width:50%;
+  display: flex;
+  justify-content:space-between;
+  font-family: 'Libre Baskerville', serif;
+  font-size:20px;
+  letter-spacing: 1px;
+}
+
+.check{
+height: 20px;
+width: 20px;
+
+}
+
+.rmvBtn{
+  height: 32px;
+  width: 35px;
+  background: #d50000;
+  color:white;
+  border: 1px solid #1b1b1b;
+}
